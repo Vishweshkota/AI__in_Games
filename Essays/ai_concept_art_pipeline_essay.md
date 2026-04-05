@@ -8,7 +8,7 @@
 
 ---
 
-Three weeks into pre-production on *Echoes of the Five* — a five-level UE5 exploration game set across five Ancient Indian elemental temples — the asset brief required ten textures, six character designs, and a storyboard generated using Google ImageFX (Imagen 3), all coherent with a Game Design Document (GDD) specifying exact color palettes and a recurring visual argument: one ancient civilization built all five temples. Its evidence would be a serpent-and-maze motif in carved stone across the Earth, Water, and Air levels — the same architectural grammar, progressively transformed by elemental weathering.
+Few weeks into pre-production on *Echoes of the Five* — a five-level UE5 exploration game set across five Ancient Indian elemental temples — the asset brief required ten textures, six character designs, and a storyboard generated using Google ImageFX (Imagen 3), all coherent with a Game Design Document (GDD) specifying exact color palettes and a recurring visual argument: one ancient civilization built all five temples. Its evidence would be a serpent-and-maze motif in carved stone across the Earth, Water, and Air levels — the same architectural grammar, progressively transformed by elemental weathering.
 
 The first texture prompt read: *"ancient Indian temple stone wall texture, carved, warm tones, seamless."*
 
