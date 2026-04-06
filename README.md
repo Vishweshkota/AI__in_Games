@@ -83,3 +83,9 @@ Two documented Human Decision Nodes appear in the demo notebook (`pipeline_demo.
 ## License
 
 All AI-generated images produced via Google ImageFX and Google Gemini. Per Google Terms of Service, users retain rights to generated outputs. All prompt engineering, iteration methodology, pipeline design, and documentation are original work by the student.
+
+## Demo Link
+https://youtu.be/KqG2r604RT8
+
+## Unreal Project Link
+https://northeastern-my.sharepoint.com/:u:/g/personal/kota_vi_northeastern_edu/IQBmE5aEXAH_T7G5rQILxzbzAXrgBboVE-FVJdJ4jS3-Ea4?e=kcYf5f
